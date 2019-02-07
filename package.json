@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/skinet2009/demonstrator.js#readme",
   "devDependencies": {
+    "path": "^0.12.7",
     "webpack": "^4.29.3",
     "webpack-cli": "^3.2.3"
   }
