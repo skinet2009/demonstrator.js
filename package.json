@@ -1,0 +1,24 @@
+{
+  "name": "demonstrator.js",
+  "version": "0.0.1",
+  "description": " Library for step-by-step demonstration of your innovations with an emphasis on the element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skinet2009/demonstrator.js.git"
+  },
+  "author": "Nepritimov Maxim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skinet2009/demonstrator.js/issues"
+  },
+  "homepage": "https://github.com/skinet2009/demonstrator.js#readme",
+  "devDependencies": {
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3"
+  }
+}
