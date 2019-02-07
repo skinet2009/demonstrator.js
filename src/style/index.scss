@@ -6,7 +6,6 @@
     flex-direction: column;
     align-items: center;
 
-
     .item {
         width: 300px;
         background-color: #8080803d;
@@ -17,14 +16,13 @@
     }
 
     .target {
-        &::nth-child(odd) {
+        &:nth-child(odd) {
             width: 200px;
             position: absolute;
             right: 150px;
         }
     }
 }
-
 
 .demonstrator {
     &__overlay {
